@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Aaraf Ayub Khan
+## Hi there. I'm Aaraf Ayub Khan
 
 - I’m currently working on building real-world data analytics and machine learning projects  
 - I’m currently learning Machine Learning, Data Analysis, and improving my problem-solving skills  
